@@ -1,5 +1,5 @@
 # Maze Pathfinding AI: UCS vs A* Search Algorithms
-### MSc Artificial Intelligence  Project
+### MSc Data Science & Engineering · Artificial Intelligence Course · Project 1/2: Labyrinth Search
 A comprehensive implementation comparing Uniform Cost Search (UCS) and A* pathfinding algorithms for robot navigation in randomly generated mazes with special teleportation mechanics.
 
 ## Overview
@@ -136,10 +136,6 @@ Expansions: 14
 ## Author
 
 **Konstantinos Vardakas**  
-
-## Course Information
-
-Artificial Intelligence - Project 1: Labyrinth Search
 
 ---
 
